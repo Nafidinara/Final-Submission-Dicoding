@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Movie</string>
+    <string name="language">Ubah Bahasa</string>
+    <string name="fragment_movie_title">Film</string>
+    <string name="fragment_tvshow_title">Acara TV</string>
+    <string name="content_desc">Foto ini berisi poster film</string>
+    <string name="rating_subtitle">Peringkat</string>
+    <string name="language_subtitle">Bahasa</string>
+    <string name="vote_count">Voting</string>
+    <string name="storyline_subtitle">Alur Cerita</string>
+    <string name="myfavorite">Favoritku</string>
+    <string name="fav_movie">Film Favorit</string>
+    <string name="fav_tvshow">TV Favorit</string>
+    <string name="mymain">Beranda</string>
+    <string name="fav_title">Favorit</string>
+    <string name="appwidget_text">Contoh</string>
+    <string name="empty_text">kosong</string>
+    <string name="daily">Notifikasi Harian</string>
+    <string name="notif">Notifikasi Rilis</string>
+    <string name="attachment_release">Pengingat rilis hari ini</string>
+    <string name="attachment">Notifikasi harian</string>
+    <string name="menu_notif_setting">Pengaturan Notifikasi</string>
+    <string name="search">Pencarian</string>
+</resources>

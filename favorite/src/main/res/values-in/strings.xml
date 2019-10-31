@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Favorit</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Wadah</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="content_desc">Gambar</string>
+    <string name="title_movie">Film</string>
+    <string name="tv">Tv Show</string>
+    <string name="vote_count">Vote</string>
+    <string name="language_scubtitle">Bahasa</string>
+    <string name="rating_subtitle">peringkat</string>
+    <string name="storyline_subtitle">sinopsis</string>
+    <string name="language_subtitle">Bahasa</string>
+    <string name="language">Ubah Bahasa</string>
+    <string name="fragment_movie_title">Film</string>
+    <string name="fragment_tvshow_title">TV Show</string>
+</resources>

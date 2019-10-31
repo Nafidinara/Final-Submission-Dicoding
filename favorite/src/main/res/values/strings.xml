@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Favorite</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="content_desc">Image</string>
+    <string name="title_movie">Movie</string>
+    <string name="tv">Tv</string>
+    <string name="vote_count">Vote</string>
+    <string name="language_scubtitle">subtitle</string>
+    <string name="rating_subtitle">ratig</string>
+    <string name="storyline_subtitle">storyline</string>
+    <string name="language_subtitle">Subtitle</string>
+    <string name="language">ChangeLanguage</string>
+    <string name="fragment_movie_title">Movie</string>
+    <string name="fragment_tvshow_title">TV Show</string>
+</resources>
